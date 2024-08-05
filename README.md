@@ -26,9 +26,9 @@ This instruction guide will help you configure and run the Tomeo project in Qt C
    - If some buttons do not have icons, open `the_player.h` file.
    - Find the `QIcon` line that contains the user directory and change that directory according to your preference.
 
-## Additional Resources
+## Additional Information
 
-For detailed documentation, refer to [this link](https://drive.google.com/file/d/1qF6bh8caatvQJdQ_bRcZNd8Ic45I968U/view?usp=sharing).
+For more details on the development process and iterations of the Tomeo project, refer to the [project report](https://drive.google.com/file/d/1qF6bh8caatvQJdQ_bRcZNd8Ic45I968U/view?usp=sharing).
 
 ---
 
